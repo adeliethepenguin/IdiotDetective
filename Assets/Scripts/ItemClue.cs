@@ -1,16 +1,9 @@
 using UnityEngine;
 
-public class ItemClue : MonoBehaviour
+public class ItemClue : Evidence
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    public void AcquireItemClue()
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        SendClue();
     }
 }

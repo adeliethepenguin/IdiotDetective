@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: fa3994499fef7e948a64f992858190a2
+guid: 3724d0ebd9ec5084fa09721c3f6a878d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5307958571244974569
-    second: chef_0
+      213: 7426585717638426443
+    second: boytoy_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: chef_0
+      name: boytoy_0
       rect:
         serializedVersion: 2
-        x: 165
-        y: 24
-        width: 520
-        height: 398
+        x: 400
+        y: 354
+        width: 476
+        height: 217
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9e1fb81a238a9a940800000000000000
-      internalID: 5307958571244974569
+      spriteID: b4fe3d9cc58801760800000000000000
+      internalID: 7426585717638426443
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      chef_0: 5307958571244974569
+      boytoy_0: 7426585717638426443
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
