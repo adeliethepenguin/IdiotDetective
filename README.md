@@ -1,3 +1,3 @@
 # IdiotDetective
 
-![Hi](../Assets/Sprites/diagram.png)
+![Hi](Assets/Sprites/diagram.png)
