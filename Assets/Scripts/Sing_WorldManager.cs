@@ -31,6 +31,12 @@ public class Sing_WorldManager : MonoBehaviour
     public bool[] cluechecks;
     public TMP_Text clueText;
 
+
+    public TMP_Text evidenceText;
+
+    public Command command;
+    public Receiver receiver;
+
     private void Awake()
     {
         
@@ -80,15 +86,24 @@ public class Sing_WorldManager : MonoBehaviour
     }
 
 
-    public void UpdateClues(int clueIndex)
+    public void UpdateClues(int clueIndex, Evidence e)
     {
-        
+        command.NewClue(e); 
         cluechecks[clueIndex] = true;
         clueText.text = clueText.text + " and " + clues[clueIndex];
         Debug.Log("clue obtained: " + clues[clueIndex]);
+
+        string evidence = receiver.AllEvidence();
+
+        string[] evidences = evidence.Split(" ");
+
+        evidenceText.text = evidenceText.text + " and " + receiver.NewestEvidence() ;
+        Debug.Log("evidence obtained: " + clues[clueIndex]);
+
+
     }
 
-
+    
     public void StartDialogue(string dialogueStuff, PersonClue person)
     {
         currentPerson = person;

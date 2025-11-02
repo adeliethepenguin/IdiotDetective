@@ -1,0 +1,1292 @@
+fileFormatVersion: 2
+guid: db076dc7abf54804c922bcc4ab1da1a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3580198318452359598
+    second: diagram_0
+  - first:
+      213: -216945384666403624
+    second: diagram_1
+  - first:
+      213: -8637921291051593951
+    second: diagram_2
+  - first:
+      213: -489259591651453628
+    second: diagram_3
+  - first:
+      213: -4779082640928862777
+    second: diagram_4
+  - first:
+      213: 339302349894100071
+    second: diagram_5
+  - first:
+      213: -6007055131153853889
+    second: diagram_6
+  - first:
+      213: 4617274241535897269
+    second: diagram_7
+  - first:
+      213: 6561215869910597418
+    second: diagram_8
+  - first:
+      213: -1894790372636611611
+    second: diagram_9
+  - first:
+      213: 6770700411513463233
+    second: diagram_10
+  - first:
+      213: 8829531635043929117
+    second: diagram_11
+  - first:
+      213: 2178177675425556458
+    second: diagram_12
+  - first:
+      213: -4435362918341079529
+    second: diagram_13
+  - first:
+      213: 431767702293418729
+    second: diagram_14
+  - first:
+      213: -6222721900857396912
+    second: diagram_15
+  - first:
+      213: -7313895655769260000
+    second: diagram_16
+  - first:
+      213: 816039553660757014
+    second: diagram_17
+  - first:
+      213: -5717268924291143774
+    second: diagram_18
+  - first:
+      213: 8056340510498079049
+    second: diagram_19
+  - first:
+      213: 5488500331854746
+    second: diagram_20
+  - first:
+      213: 1308573245158129794
+    second: diagram_21
+  - first:
+      213: 4355008800350295463
+    second: diagram_22
+  - first:
+      213: 7841547399003688076
+    second: diagram_23
+  - first:
+      213: 4576066972766473646
+    second: diagram_24
+  - first:
+      213: 6441005371068315993
+    second: diagram_25
+  - first:
+      213: 7438089262559095227
+    second: diagram_26
+  - first:
+      213: -8728149855603951284
+    second: diagram_27
+  - first:
+      213: 3299111788895444871
+    second: diagram_28
+  - first:
+      213: 799076818055898134
+    second: diagram_29
+  - first:
+      213: -6579836972785323252
+    second: diagram_30
+  - first:
+      213: -6157981430947015989
+    second: diagram_31
+  - first:
+      213: 7193609871002435041
+    second: diagram_32
+  - first:
+      213: 7552053423808310970
+    second: diagram_33
+  - first:
+      213: 636228888180050158
+    second: diagram_34
+  - first:
+      213: -6582544387870284656
+    second: diagram_35
+  - first:
+      213: -8033319211284822333
+    second: diagram_36
+  - first:
+      213: 3724830590826274888
+    second: diagram_37
+  - first:
+      213: 2855174383361342392
+    second: diagram_38
+  - first:
+      213: -4259220240180669188
+    second: diagram_39
+  - first:
+      213: 8744656736104450001
+    second: diagram_40
+  - first:
+      213: 1640025101708275555
+    second: diagram_41
+  - first:
+      213: 4744798106433402701
+    second: diagram_42
+  - first:
+      213: 1984899354160397852
+    second: diagram_43
+  - first:
+      213: 2239026641417800600
+    second: diagram_44
+  - first:
+      213: -3599011157933802828
+    second: diagram_45
+  - first:
+      213: -7771808831649085076
+    second: diagram_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: diagram_0
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 780
+        width: 57
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1cdc4e66b6fa130800000000000000
+      internalID: 3580198318452359598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_1
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 780
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc6c4372514dfcf0800000000000000
+      internalID: -216945384666403624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_2
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 780
+        width: 52
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f0619f950ff1880800000000000000
+      internalID: -8637921291051593951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_3
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 778
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44599ac5efcc539f0800000000000000
+      internalID: -489259591651453628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_4
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 778
+        width: 42
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd0333a8a94dadb0800000000000000
+      internalID: -4779082640928862777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_5
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 669
+        width: 63
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764a4e480b175b400800000000000000
+      internalID: 339302349894100071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 651
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3213695f27a2aca0800000000000000
+      internalID: -6007055131153853889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_7
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 649
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5beee45957ad31040800000000000000
+      internalID: 4617274241535897269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_8
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 649
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f3da4221f1e0b50800000000000000
+      internalID: 6561215869910597418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_9
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 651
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb2a23f13a54b5e0800000000000000
+      internalID: -1894790372636611611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_10
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 651
+        width: 52
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1e9dcc62c56fd50800000000000000
+      internalID: 6770700411513463233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_11
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 651
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c0edfbd3cc88a70800000000000000
+      internalID: 8829531635043929117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_12
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 651
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae72d692e017a3e10800000000000000
+      internalID: 2178177675425556458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_13
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 651
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e0752ecec6272c0800000000000000
+      internalID: -4435362918341079529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_14
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 651
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e29fa80072fdf500800000000000000
+      internalID: 431767702293418729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_15
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 651
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051f95b866374a9a0800000000000000
+      internalID: -6222721900857396912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_16
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 651
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020c999d6a2df7a90800000000000000
+      internalID: -7313895655769260000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_17
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 651
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6142e9686a7235b00800000000000000
+      internalID: 816039553660757014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_18
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 651
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a72f3a643e28a0b0800000000000000
+      internalID: -5717268924291143774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 637
+        width: 57
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941c3dd820fddcf60800000000000000
+      internalID: 8056340510498079049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_20
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 637
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b31a013cf731000800000000000000
+      internalID: 5488500331854746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_21
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 635
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2800b30fe6cf82210800000000000000
+      internalID: 1308573245158129794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_22
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 637
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5549a1e69107c30800000000000000
+      internalID: 4355008800350295463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_23
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 635
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cc00720d5c2dc60800000000000000
+      internalID: 7841547399003688076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_24
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 635
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead842caaa4718f30800000000000000
+      internalID: 4576066972766473646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_25
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 637
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959f8e2524c036950800000000000000
+      internalID: 6441005371068315993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_26
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 637
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb96b7e86c6693760800000000000000
+      internalID: 7438089262559095227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_27
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 637
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49795633f16fd680800000000000000
+      internalID: -8728149855603951284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_28
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 637
+        width: 50
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f9a6b41bcc8cd20800000000000000
+      internalID: 3299111788895444871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_29
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 637
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614a870e124e61b00800000000000000
+      internalID: 799076818055898134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_30
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 637
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03362d7229bfa4a0800000000000000
+      internalID: -6579836972785323252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_31
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 620
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc293f2d3847a8aa0800000000000000
+      internalID: -6157981430947015989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_32
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 622
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edf7d57016d4d360800000000000000
+      internalID: 7193609871002435041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_33
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 622
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abeedd293984ec860800000000000000
+      internalID: 7552053423808310970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 622
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee840db8dc654d800800000000000000
+      internalID: 636228888180050158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_35
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 622
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09420ca41ca16a4a0800000000000000
+      internalID: -6582544387870284656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_36
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 620
+        width: 45
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c60c0c5dbae38090800000000000000
+      internalID: -8033319211284822333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_37
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 622
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84065b6ffa141b330800000000000000
+      internalID: 3724830590826274888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_38
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 622
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb3c0c69fd9f9720800000000000000
+      internalID: 2855174383361342392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_39
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 622
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf490e302c534e4c0800000000000000
+      internalID: -4259220240180669188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_40
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 622
+        width: 61
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d78b3668f24b5970800000000000000
+      internalID: 8744656736104450001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_41
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 620
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fab0a042a82c610800000000000000
+      internalID: 1640025101708275555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_42
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 620
+        width: 49
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47b8e02db8e8d140800000000000000
+      internalID: 4744798106433402701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_43
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 622
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ef1a73277cb8b10800000000000000
+      internalID: 1984899354160397852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_44
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 622
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b08541ede921f10800000000000000
+      internalID: 2239026641417800600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_45
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 622
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba30b49b6ebd0ec0800000000000000
+      internalID: -3599011157933802828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diagram_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 701
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69005f5b0df42490800000000000000
+      internalID: -7771808831649085076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

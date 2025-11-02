@@ -7,9 +7,23 @@ public class Evidence : MonoBehaviour
     bool acquired;
     public Button clickMe;
     public int clueIndex;
+    public Command command;
+
+    public string myName;
+
 
     private void Start()
     {
+        if (myName == null)
+        {
+            myName=transform.name;
+        }
+        
+        if (command == null)
+        {
+            command=FindAnyObjectByType<Command>();
+        }
+
         if (clickMe == null)
         {
             clickMe = GetComponent<Button>();
@@ -26,7 +40,7 @@ public class Evidence : MonoBehaviour
 
     public void SendClue()
     {
-        Sing_WorldManager.Instance.UpdateClues(clueIndex);
+        Sing_WorldManager.Instance.UpdateClues(clueIndex, this.GetComponent<Evidence>());
         acquired = true;
     }
 }
