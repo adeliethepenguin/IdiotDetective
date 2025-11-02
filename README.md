@@ -8,4 +8,5 @@ The project is called The Idiot Detective. It's a murder mystery where you gathe
 This time I added the command design pattern to the game just to showcase its capability of being useful. It's not being particularly useful in doing anything new but it is making a part of my UI stuff more efficient. Here is a diagram illustrating such:
 
 
+
 Currently I have not yet added the endings so closing the case does nothing
